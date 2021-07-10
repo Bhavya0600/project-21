@@ -49,7 +49,7 @@ function draw() {
   rectMode(CENTER);
   background(0);
   
-  fill("yellow");
+  fill("lime");
   ellipse(ball.position.x,ball.position.y,radius,radius);
   noFill();
   
